@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "angular-4b68a": {
+      "hosting": {
+        "course-project": [
+          "angular-4b68a"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "angular-4b68a"
+  }
+}
